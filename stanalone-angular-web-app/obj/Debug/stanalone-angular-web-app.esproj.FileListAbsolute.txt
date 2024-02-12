@@ -1,0 +1,1 @@
+D:\Repositories\NURE\Web-site\static-web-app\stanalone-angular-web-app\obj\Debug\stanalone-angular-web-app.esproj.CoreCompileInputs.cache
