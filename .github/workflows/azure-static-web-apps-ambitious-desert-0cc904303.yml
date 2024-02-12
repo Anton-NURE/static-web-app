@@ -24,9 +24,7 @@ jobs:
         with:
           node-version: '18'
       - name: Install Packages
-        run: cd stanalone-angular-web-app
-      - name: Install Packages
-        run: npm install
+        run: npm install ./stanalone-angular-web-app
       - name: Install Angular cli
         run: npm install -g @angular/cli
       - name: Build
